@@ -18,5 +18,5 @@ Blog application:
 
 ## Admin account
 
-- email: `selemonmatiyas27@gmail.com`
-- password: `sol@H123`
+- email: `hbtn@hbtn.io`
+- password: `toto1234`
